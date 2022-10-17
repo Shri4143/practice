@@ -1,3 +1,5 @@
+updating the new file
+
 devops is a methedology,linux and shellscripts are pre-requesits for devops.
 git is a distrubuted version control system.
 git hub is a hosted service for the git and its provides GUI
