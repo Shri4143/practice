@@ -3,4 +3,8 @@
 .project
 .settings
 node/
-
+.abc
+.def
+.ghi
+.removefile
+module/
